@@ -1,0 +1,6 @@
+c:\users\luis\documents\visual studio 2013\Projects\TiposDeDatos\TiposDeDatos\bin\Debug\TiposDeDatos.exe.config
+c:\users\luis\documents\visual studio 2013\Projects\TiposDeDatos\TiposDeDatos\bin\Debug\TiposDeDatos.exe
+c:\users\luis\documents\visual studio 2013\Projects\TiposDeDatos\TiposDeDatos\bin\Debug\TiposDeDatos.pdb
+c:\users\luis\documents\visual studio 2013\Projects\TiposDeDatos\TiposDeDatos\obj\Debug\TiposDeDatos.csprojResolveAssemblyReference.cache
+c:\users\luis\documents\visual studio 2013\Projects\TiposDeDatos\TiposDeDatos\obj\Debug\TiposDeDatos.exe
+c:\users\luis\documents\visual studio 2013\Projects\TiposDeDatos\TiposDeDatos\obj\Debug\TiposDeDatos.pdb
